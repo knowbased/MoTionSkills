@@ -1,0 +1,19 @@
+.claude-plugin/marketplace.json
+  s_b0f95a0ce8befb::t_ad395eb6d9f436 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2e6bcd91459d4c9eb754693e1e95b2b9eedbd10c",
+  "prompts": {},
+  "sessions": {
+    "s_b0f95a0ce8befb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4dd7807c-34d1-4cce-bfa5-b1b7ecec624c",
+        "model": "unknown"
+      },
+      "human_author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}
