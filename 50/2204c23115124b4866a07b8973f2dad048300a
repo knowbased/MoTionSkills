@@ -1,0 +1,20 @@
+README.md
+  s_b0f95a0ce8befb::t_48adb4e857da14 54
+  s_b0f95a0ce8befb::t_31bab33358232a 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "502204c23115124b4866a07b8973f2dad048300a",
+  "prompts": {},
+  "sessions": {
+    "s_b0f95a0ce8befb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4dd7807c-34d1-4cce-bfa5-b1b7ecec624c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Kilian B <60846047+knowbased@users.noreply.github.com>"
+    }
+  }
+}
